@@ -1,9 +1,9 @@
 :root {
-    background-color: #5A5A5A !important;
+    background-color: #4C4E52 !important;
 }
 
 body {
-    background-color: #5A5A5A
+    background-color: #4C4E52
 }
 
 #console {
@@ -17,16 +17,16 @@ body {
 }
 
 a {
-    color: #DEC20B;
+    color: #FFD700;
     text-decoration: none;
 }
 
 #a {
-    color: #0f0;
+    color: #FFD700;
 }
 
 #c {
-    color: #DEC20B;
+    color: #FFD700;
 }
 
 #b {
@@ -43,11 +43,11 @@ a {
 
 @keyframes change {
     0% {
-        color: #9f0000;
+        color: #d20000;
     }
 
     50% {
-        color: #9f0000;
+        color: #d20000;
     }
 
     99% {

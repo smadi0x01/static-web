@@ -10,6 +10,8 @@
 
 <p align="center">
   <a href="">
+    <img src="https://img.shields.io/badge/HTML-5-orange.svg">
+    <img src="https://img.shields.io/badge/CSS-3-blue.svg">
     <img src="https://img.shields.io/badge/Javascript-JS-yellow.svg">
     <img src="https://img.shields.io/badge/Microsoft-Azure-blue.svg">
   </a>

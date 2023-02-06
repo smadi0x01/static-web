@@ -1,6 +1,6 @@
 <span id="a">root@smadi</span>:<span id="b">~</span><span id="c">$</span> cd smadi/<!-- kjsdfhkjdhsfkjdshfkj -->about/
 <span id="a">root@smadi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->smadi.txt<br/><br/>
-coded with <p>&#10084;</p> by smadi0x01, "<span id="k">ENJOY THE MOVEMENT</span>". <!-- sjkfhskjf -->
+coded with &#10084; by smadi0x01, "<span id="k">ENJOY THE MOVEMENT</span>". <!-- sjkfhskjf -->
 
 This webpage is under construction,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>please be aware and dont mess around ;)</p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Open Ports: 80, 443<!-- slightdelayhere--><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->

@@ -8,7 +8,7 @@ Hey There! This webpage is under construction,<!-- laglaglaglaglaglaglaglaglagla
 <!-- slightdelayhere--><p>Encrypting communication with ssl cert...</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>you are communicating with the server at 443, although I hate it.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<!-- slightdelayhere--><p> Contact here: <br> <a href="github.com/smadi0x01">Github</a> <br> <a href="t.me/rootsmadi">Telegram</a>
+<!-- slightdelayhere--><p> Contact here: <br> <p><a href="https://github.com/smadi0x01">Github</a></p> <br> <p><a href="https://t.me/rootsmadi">Telegram</a></p>
 
 <!-- slightdelayhere-->Feel free to send me an email at <!-- longlonglongcomment --><a href="smadixd@gmail.com">smadixd@gmail.com</a>.
 

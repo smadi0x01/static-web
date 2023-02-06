@@ -2,11 +2,11 @@
   <br>
   <a href="https://github.com/rootsmadi/GrabberHawk"><img src="https://i.top4top.io/p_259359nwg1.gif" alt="nyancat.logo"></a>
   <br>
-  My Personal Website
+  My Personal Website (Azure server)
   <br>
 </h1>
 
-<h3 align="center">No Framework (vanilla-basic) on Azure Cloud Service</h3>
+<h3 align="center">No Framework (vanilla-basic)</h3>
 
 <p align="center">
   <a href="">

@@ -10,4 +10,3 @@ you are communicating with the server using ssl at port 443, although I hate it.
 <br>
 <!-- slightdelayhere-->~ Feel free to send me an email at <!-- longlonglongcomment --><a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVdGVjwhZlMhjhnKgKvgvsskxXWXRKNmHFcpzpdCLRnrqTMRRfWmQJMcTJzxbLtVvqmQh" target="_blank">smadixd@gmail.com</a>
 <!-- slightdelayhere--><p>~ DONT CLICK HERE >> <a href="https://www.youtube.com/watch?v=QH2-TGUlwu4" target="_blank">mov $SYS_exit,%eax</a>
--------------------

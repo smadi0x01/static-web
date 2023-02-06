@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/Microsoft-Azure-blue.svg">
   </a>
   </p>
+  
+## 😊 My First Experience :
+- Coming soon! I'll give a detailed writeup about everything I learned during constructing this website.
 
 ## ⚠️ Disclaimer :
 - I am not responsible for any misuse of this information, its only for education purposes 

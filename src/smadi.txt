@@ -6,6 +6,6 @@ Hey There! This webpage is under construction,<!-- laglaglaglaglaglaglaglaglagla
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><p>Open Ports: 80,443</p><!-- slightdelayhere--><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 you are communicating with the server at 443, although I hate it.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <br>
-<!-- slightdelayhere--><p> Contact here: <br> <p><a href="https://github.com/smadi0x01">Github</a></p> <p><a href="https://t.me/rootsmadi">Telegram</a></p>
+<!-- slightdelayhere--><p> Contact here: <br> <a href="https://github.com/smadi0x01">Github</a> <p><a href="https://t.me/rootsmadi">Telegram</a></p>
 <!-- slightdelayhere-->Feel free to send me an email at <!-- longlonglongcomment --><a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVdGVjwhZlMhjhnKgKvgvsskxXWXRKNmHFcpzpdCLRnrqTMRRfWmQJMcTJzxbLtVvqmQh">smadixd@gmail.com</a>
 mov $SYS_exit,%eax

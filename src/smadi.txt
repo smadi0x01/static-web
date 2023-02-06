@@ -3,7 +3,7 @@
 Dont forget to, "<span id="k">ENJOY THE MOVEMENT</span>". <!-- sjkfhskjf -->
 
 Hey There! This webpage is under construction,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>please be aware and dont mess around ;)</p>
-Open Ports: 80,443<!-- slightdelayhere-->Encrypting communication with ssl cert...<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Open Ports: 80,443<!-- slightdelayhere-->Encrypting communication with ssl cert...<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 you are communicating with the server at 443, although I hate it.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <br>
 <!-- slightdelayhere--><p> Contact here: <br> <p><a href="https://github.com/smadi0x01">Github</a></p> <p><a href="https://t.me/rootsmadi">Telegram</a></p>

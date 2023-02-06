@@ -10,4 +10,4 @@ you are communicating with the server using ssl at port 443, although I hate it.
 <br>
 <!-- slightdelayhere-->.globl _start<!-- longlonglongcomment -->
 <!-- slightdelayhere-->_start:<!-- longlonglongcomment -->
-<!-- slightdelayhere-->~ DONT CLICK HERE >> <a href="https://www.youtube.com/watch?v=QH2-TGUlwu4" target="_blank">mov $SYS_exit,%eax</a>
+<!-- slightdelayhere--> <a href="https://www.youtube.com/watch?v=QH2-TGUlwu4" target="_blank">mov $SYS_exit,%eax</a>

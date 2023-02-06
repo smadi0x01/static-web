@@ -40,4 +40,4 @@ const urlLocationHandler = () => {
 // for navbar:
 //window.addEventListener("popstate", urlLocationHandler); // run the function on popstate
 //window.route = urlRoute; // make the function available to other files in the project (this is used in the navbar)
-//urlLocationHandler(); // run the function on load
+urlLocationHandler(); // run the function on load

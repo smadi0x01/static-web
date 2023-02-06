@@ -6,10 +6,10 @@
   <br>
 </h1>
 
-<h3 align="center">Built using No Framework (vanilla-basic)</h3>
+<h3 align="center">No Framework (vanilla-basic)</h3>
 
 <p align="center">
-  <a href="https://python.org/download">
+  <a href="">
     <img src="https://img.shields.io/badge/Javascript-JS-yellow.svg">
     <img src="https://img.shields.io/badge/Microsoft-Azure-blue.svg">
   </a>

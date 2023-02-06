@@ -2,15 +2,16 @@
   <br>
   <a href="https://github.com/rootsmadi/GrabberHawk"><img src="https://i.top4top.io/p_259359nwg1.gif" alt="nyancat.logo"></a>
   <br>
-  🦅 Personal Website
+  My Personal Website
   <br>
 </h1>
 
-<h3 align="center">Effortless Credit Card Generator</h3>
+<h3 align="center">Built using No Framework (vanilla-basic)</h3>
 
 <p align="center">
   <a href="https://python.org/download">
-    <img src="https://img.shields.io/badge/Python-3-yellow.svg">
+    <img src="https://img.shields.io/badge/Javascript-JS-yellow.svg">
+    <img src="https://img.shields.io/badge/Microsoft-Azure-blue.svg">
   </a>
   </p>
 

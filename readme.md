@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h3 align="center">No Framework (vanilla-basic)</h3>
+<h3 align="center">No Framework (vanilla-basic) on Azure Cloud Service</h3>
 
 <p align="center">
   <a href="">

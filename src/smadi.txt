@@ -10,6 +10,6 @@ Hey There! This webpage is under construction,<!-- laglaglaglaglaglaglaglaglagla
 
 <!-- slightdelayhere--><p> Contact here: <br> <a href="github.com/smadi0x01">Github</a> <br> <a href="t.me/rootsmadi">Telegram</a>
 
-<!-- slightdelayhere-->Feel free to send me an email at <!-- longlonglongcomment --><a href="smadixd@gmail.com">Email</a>.
+<!-- slightdelayhere-->Feel free to send me an email at <!-- longlonglongcomment --><a href="smadixd@gmail.com">smadixd@gmail.com</a>.
 
-<p>Greets!</p>
+<p>mov $SYS_exit,%eax</p>

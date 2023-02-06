@@ -5,7 +5,7 @@
   },
   "routes": [
     {
-      "route": "/",
+      "route": "/index.html",
       "redirect": "/index.html",
       "statuscode": 301
     }

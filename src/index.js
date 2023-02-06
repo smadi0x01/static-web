@@ -89,7 +89,7 @@ function replaceUrls(text) {
 
   if (space != -1) {
     var url = text.slice(http, space - 1);
-    return text.replace(url, '<a href="' + url + '">' + url + "</a>");
+    return text.replace('<a href="' + url + '">' + url + "</a>");
   } else {
     return text;
   }

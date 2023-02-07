@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/Javascript-JS-yellow.svg">
     <img src="https://img.shields.io/badge/Microsoft-Azure-blue.svg">
   </a>
-  </p>
   <h4 align="center">https://gray-sea-064531100.2.azurestaticapps.net/</h4>
+  </p>
   
 ## 😊 My First Experience :
 - Coming soon! I'll give a detailed writeup about everything I learned during constructing this website.

@@ -2,7 +2,7 @@
 <span id="a">root@smadi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->smadi.txt<br/><br/>
 coded with &#10084; by smadi0x01, "<span id="k">ENJOY THE MOVEMENT</span>". <!-- sjkfhskjf -->
 
-This webpage is under construction,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>please be aware and dont mess around ;)</p>
+This webpage is under construction,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>please be aware and don't mess around ;)</p>
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Open Ports: 80, 443<!-- slightdelayhere--><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 you are communicating with the server using ssl at port 443, although I hate it.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <br>

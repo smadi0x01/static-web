@@ -7,4 +7,4 @@ I said <!-- laglaglaglaglaglaglaglaglaglaglaglag -->don't mess around ;(<!-- lag
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <!-- slightdelayhere-->.global _start<!-- longlonglongcomment -->
 <!-- slightdelayhere-->_start:<!-- longlonglongcomment -->
-<!-- slightdelayhere--> <a href="https://www.youtube.com/watch?v=CtwJvgPJ9xw" target="_blank">mov $SYS_exit,%eax</a>
+<!-- slightdelayhere--> <a href="https://www.youtube.com/watch?v=CtwJvgPJ9xw" target="_blank">mov $SYS_exit, %eax</a>

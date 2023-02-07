@@ -3,8 +3,8 @@
     "404": {
       "rewrite": "/404.html"
     },
-    "403": {
-      "rewrite": "/500.html"
+    "ridin": {
+      "rewrite": "/ridin.html"
     }
   }
 }

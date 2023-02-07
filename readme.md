@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h3 align="center">No Framework (vanilla-basic)</h3>
+<h2 align="center">No Framework (vanilla-basic)</h2>
 <h3 align="center">https://gray-sea-064531100.2.azurestaticapps.net/</h3>
 
 <p align="center">

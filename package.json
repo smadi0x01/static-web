@@ -1,7 +1,7 @@
 {
   "name": "static-web",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\">\r   <br>\r   <a href=\"https://github.com/smadi0x01/static-web\"><img src=\"https://l.top4top.io/p_2594v190t1.gif\" alt=\"nyancat.logo\"></a>\r   <br>\r   My Personal Website (Azure server)\r   <br>\r </h1>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

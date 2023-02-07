@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/smadi0x01/static-web"><img src="https://i.top4top.io/p_259359nwg1.gif" alt="nyancat.logo"></a>
+  <a href="https://github.com/smadi0x01/static-web"><img src="https://l.top4top.io/p_2594v190t1.gif" alt="nyancat.logo"></a>
   <br>
   My Personal Website (Azure server)
   <br>

@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/rootsmadi/GrabberHawk"><img src="https://i.top4top.io/p_259359nwg1.gif" alt="nyancat.logo"></a>
   <br>
-  My Personal Website
+  My Personal Website (Azure server)
   <br>
 </h1>
 

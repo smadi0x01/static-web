@@ -1,0 +1,13 @@
+<span id="a">root@smadi</span>:<span id="b">~</span><span id="c">$</span> cd smadi/<!-- kjsdfhkjdhsfkjdshfkj -->about/
+<span id="a">root@smadi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->smadi.txt<br/><br/>
+coded with &#10084; by smadi0x01, "<span id="k">ENJOY THE MOVEMENT</span>". <!-- sjkfhskjf -->
+
+This webpage is under construction,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>please be aware and don't mess around ;)</p>
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->Open Ports: 80, 443<!-- slightdelayhere--><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+you are communicating with the server using ssl at port 443, although I hate it.<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<br>
+<!-- slightdelayhere--><p>~ Get in touch: <br><br> <a href="http://mailto:smadixd@gmail.com/" target="_blank" class="fa fa-google fa-2x"></a> <a href="https://github.com/smadi0x01" target="_blank" class="fa fa-github fa-2x"></a> <a href="https://t.me/rootsmadi" target="_blank" class="fa fa-telegram fa-2x"></a>
+<br>
+<!-- slightdelayhere-->.global _start<!-- longlonglongcomment -->
+<!-- slightdelayhere-->_start:<!-- longlonglongcomment -->
+<!-- slightdelayhere--> <a href="https://www.youtube.com/watch?v=QH2-TGUlwu4" target="_blank">mov $SYS_exit, %eax</a>

@@ -1,0 +1,10 @@
+<span id="a">root@smadi</span>:<span id="b">~</span><span id="c">$</span> cd blackhole/<!-- kjsdfhkjdhsfkjdshfkj -->lost_people/
+<span id="a">root@smadi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->404.txt<br/><br/>
+what are you doing lol, "<span id="k">I can see you</span>". <!-- sjkfhskjf -->
+
+I said <!-- laglaglaglaglaglaglaglaglaglaglaglag -->don't mess around ;(<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- slightdelayhere-->If you are here by mistake, return to home by pressing here: <a href="https://gray-sea-064531100.2.azurestaticapps.net/" class="fa fa-home fa-1.5x"></a>
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<!-- slightdelayhere-->.global _start<!-- longlonglongcomment -->
+<!-- slightdelayhere-->_start:<!-- longlonglongcomment -->
+<!-- slightdelayhere--> <a href="https://www.youtube.com/watch?v=CtwJvgPJ9xw" target="_blank">mov $SYS_exit, %eax</a>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Interactive Shell</title>
+    <meta content="Microsoft FrontPage 5.0" name="generator">
+    <meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+    <link rel="icon"
+        href="https://www.freepngimg.com/download/world_of_warcraft/92075-games-skull-of-video-bone-warcraft-wild.png">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery.terminal/js/jquery.terminal.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery.terminal/css/jquery.terminal.min.css" />
+</head>
+
+<body>
+    <script>
+        $('body').terminal({
+            hello: function (what) {
+                this.echo('Hello, ' + what +
+                    '. Welcome to this terminal, type "help" to see the list of commands.');
+            }
+        }, {
+            greetings: 'Type "hello" to start'
+        });
+    </script>
+</body>
+
+</html>

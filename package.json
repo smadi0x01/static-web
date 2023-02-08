@@ -1,11 +1,23 @@
 {
-  "name": "vanilla-basic",
+  "name": "static-web",
   "version": "1.0.0",
-  "scripts": { 
-    "start": "sirv ./src public --cors --single --no-clear --port 8000",
-    "playwright_test" : "playwright test"
+  "description": "<h1 align=\"center\">\r   <br>\r   <a href=\"https://github.com/smadi0x01/static-web\"><img src=\"https://l.top4top.io/p_2594v190t1.gif\" alt=\"nyancat.logo\"></a>\r   <br>\r   My Personal Website (Azure server)\r   <br>\r </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "@playwright/test": "^1.22.2"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smadi0x01/static-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smadi0x01/static-web/issues"
+  },
+  "homepage": "https://github.com/smadi0x01/static-web#readme",
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
